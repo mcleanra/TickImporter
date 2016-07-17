@@ -17,6 +17,7 @@ namespace TickImporter
         private DateTime Date;
         public Status Status;
 
+        //test comment for git
         public InputFile(string filename)
         {
             FileName = filename;
